@@ -4,6 +4,9 @@ O(nlogn)
 #### Space complexity:
 O(1)
 
+#### 思路：
+利用sort实现
+
 
 ```python
 class Solution:
