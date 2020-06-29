@@ -4,7 +4,8 @@ Finish Date: 5/28/2020
 
 Solved with Hint: No
 
-Approach: Heap
+Approach: Heap 
+
 The underlying rule of getting a new meeting room is that all current meeting room's ending time is later than new meeting's start time.
 Considering this, we need a data structure to store the end time of current meeting and get earliest finish time efficiently. Heap is a good choice intuitively.
 
